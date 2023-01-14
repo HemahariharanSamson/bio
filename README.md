@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # 💫 About Me:<br>- 👋 Hi, I’m Hema Hariharan Samson<br>- 👀 I’m interested in Software Development, Web Development, Programming and Gaming<br>- 🌱 I’m currently learning Web Development and Software Development<br>- 💞️ I’m looking to collaborate on companies where I can learn and develop new skills<br>- 📫 How to reach me <b>Mail ID : hemahariharansamson@gmail.com</b><br>
 
 
